@@ -12,10 +12,10 @@ Our task for this project was to use unsupervised machine learning algorithms to
 Here are the visualizations we generated as part of our analysis:
 
 1) Elbow Curve - used to determine the best K value to use for the K-Means algorithm.<br>
-![Elbow Curve]()
+![Elbow Curve](https://github.com/jmueller187/Cryptocurrencies/blob/main/Resources/ElbowCurve.png)
 
 2) 3D Scatter Plot - visualization of the three principal components generated from PCA with the four classes generated from K-Means.<br>
-![3D Scatter Plot]()
+![3D Scatter Plot](https://github.com/jmueller187/Cryptocurrencies/blob/main/Resources/3DScatterPlot.png)
 
 3) 2D Scatter Plot - visualization of the Total Coins Mined vs. Total Coin Supply with the four classes genereated from K-Means.<br>
-![2D Scatter Plot]()
+![2D Scatter Plot](https://github.com/jmueller187/Cryptocurrencies/blob/main/Resources/2DScatterPlot.png)
