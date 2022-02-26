@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Unsupervised learning with the K-means algorithm and principal component analysis (PCA)
+Unsupervised learning with the K-means algorithm, principal component analysis (PCA) and heirarchical clustering
 
 ## Overview of Project
 Our task for this project was to use unsupervised machine learning algorithms to analyze a cryptocurrency dataset in order to create a report that included what cryptocurrencies are on the trading market. The analyzed data was then grouped to create a classification system for a new investment opportunity presentation. Our analysis included the following:
